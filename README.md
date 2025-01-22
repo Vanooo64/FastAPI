@@ -2,3 +2,5 @@
 2) Activate the virtual environment (. venv/bin/activate)
 3) Install fastapi (pip3 install 'fastapi[standard]')
 4) Start the server (fastapi dev main.py)
+5) Start the server through uvicorn  (uvicorn mainpydentic:app --reload)
+5) Install library pydentic (pip3 install pydentic)
