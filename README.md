@@ -4,3 +4,4 @@
 4) Start the server (fastapi dev main.py)
 5) Start the server through uvicorn  (uvicorn mainpydentic:app --reload)
 5) Install library pydentic (pip3 install pydentic)
+6) Install library aiosqlite and sqlalchemy for working with db -(pip3 install aiosqlite sqlalchemy) 
